@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">igate Sample Applocation</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="log_screen_icon">Log screen icon</string>
+    <string name="logged_in">Logged In</string>
+    <string name="go_back">Go Back</string>
+</resources>
